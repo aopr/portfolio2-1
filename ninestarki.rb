@@ -1,5 +1,6 @@
 puts "WELCOME TO KAREN'S NINE STAR KI!"
-puts "⭐️" * 9
+puts "⭐️ " * 9
+puts " ⭐️" * 9
 puts "Nine Star Ki is a Japanese numerology system, whereby a number from 1 to 9 and an element (water, tree, soil, fire, metal) is assigned to you base on birth year. Think of it as horoscope with numbers!"
 puts " "
 puts "What year were you born?"
